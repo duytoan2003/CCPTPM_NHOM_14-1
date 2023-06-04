@@ -3,10 +3,8 @@ using namespace std;
 
 int main(){
     std::cout<<"Nhanh A"<<endl;
-    std::cout<<"Nhanh tuyen"<<endl;
+    std::cout<<"Nhanh Toan"<<endl;
 
-    std::cout<<"nhanh main"<<endl;
-    std::cout<<"nhanh main pull"<<endl;
-
+    std::cout<<"Hello"<<endl;
 
 }
