@@ -6,4 +6,6 @@ int main(){
     std::cout<<"Nhanh tuyen"<<endl;
 
     std::cout<<"nhanh main"<<endl;
+    std::cout<<"nhanh main pull"<<endl;
+
 }
